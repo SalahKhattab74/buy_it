@@ -1,7 +1,7 @@
 # buy_it
 
 A new Flutter application.
-
+##small e_commerce application 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
